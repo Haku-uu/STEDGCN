@@ -1,0 +1,1 @@
+A Spatiotemporal Trend-Event Decoupling Graph Convolutional Network for Traffic Flow Prediction 
