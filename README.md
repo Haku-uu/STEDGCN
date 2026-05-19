@@ -1,6 +1,3 @@
-## README.md
-
-````markdown
 # STEDGCN: Spatiotemporal Trend-Event Decoupling Graph Convolutional Network for Traffic Flow Prediction
 
 This repository provides the official implementation of **STEDGCN**, a Spatiotemporal Trend-Event Decoupling Graph Convolutional Network for traffic flow prediction.
